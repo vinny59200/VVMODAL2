@@ -1,0 +1,4 @@
+“#test2>>README.md
+vv
+git init
+echo “#test2
